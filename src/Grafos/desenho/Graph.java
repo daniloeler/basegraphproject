@@ -4,10 +4,7 @@
  */
 package Grafos.desenho;
 
-import Grafos.desenho.color.ColorScale;
-import Grafos.desenho.color.GrayScale;
 import Grafos.desenho.color.RainbowScale;
-import java.awt.Color;
 import java.util.ArrayList;
 
 /**
